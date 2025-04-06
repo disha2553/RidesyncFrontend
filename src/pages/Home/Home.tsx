@@ -201,6 +201,9 @@ function Home() {
               <IonIcon slot="start" icon={exitOutline}></IonIcon>
               <IonLabel>Logout</IonLabel>
             </IonItem>
+            <IonItem>
+            <div id="google_translate_element"></div>
+            </IonItem>
           </IonList>
         </IonMenuToggle>
         <IonContent className="ion-padding">
