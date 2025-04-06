@@ -204,22 +204,9 @@ function Home() {
           </IonList>
         </IonMenuToggle>
         <IonContent className="ion-padding">
-  {/* Google Translate Section */}
-  <div
-    style={{
-      backgroundColor: "#f8f9fa",
-      padding: "10px",
-      borderRadius: "10px",
-      margin: "10px",
-      textAlign: "center",
-      boxShadow: "0px 2px 5px rgba(0, 0, 0, 0.1)",
-    }}
-  >
-    <IonLabel style={{ fontWeight: "bold", fontSize: "14px", color: "#333" }}>
-      Change Language
-    </IonLabel>
-    <div id="google_translate_element" style={{ marginTop: "5px" }}></div>
-  </div>
+  
+  {/* Google Translate Dropdown */}
+  <div id="google_translate_element" style={{ textAlign: "right", padding: "10px" }}></div>
 </IonContent>
         
       </IonMenu>
