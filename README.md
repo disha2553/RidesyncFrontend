@@ -3,7 +3,7 @@ A cross-platform (Android, iOS & Web) app that enables ride-sharing and connects
 
 This is a full-stack application developed using [Ionic React](https://ionicframework.com/), Flask, Firebase Firestore, Google Maps API, etc.
 
-[RideSync Back-End](https://github.com/257helloWorld/codrivebackend) is developed using Flask framework.
+[RideSync Back-End](https://github.com/disha2553/RidesyncBackend) is developed using Flask framework.
 
 ## Features
 - User Authentication: Secure login and registration system.
